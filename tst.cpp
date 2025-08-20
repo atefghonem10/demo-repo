@@ -8,6 +8,5 @@ int f(int n){
 int main ()
 
 {
-    YARAB_ACCEPTED
     cout<<"Hello world\n";
 }
